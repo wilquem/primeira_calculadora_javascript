@@ -1,6 +1,5 @@
 let operacao = "-"
 
-
 function calculadora (a,b) {
     if(operacao == "+") {
         console.log(a + b)
